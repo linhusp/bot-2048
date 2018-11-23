@@ -1,2 +1,2 @@
 # bot-2048
-2048 bot written in Python
+Bot try to play 2048 written in Python
