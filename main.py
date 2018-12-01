@@ -169,4 +169,5 @@ def print_board(board):
         print("[%s\t|%s\t|%s\t|%s\t]" % (row[0], row[1], row[2], row[3]))
 
 
-main()
+if __name__ == "__main__":
+    main()
